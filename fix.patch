@@ -1,3 +1,5 @@
+# Credits to <https://github.com/jpleau>
+
 diff --git a/os/io.c b/os/io.c
 index 8181a86..fa024ce 100644
 --- a/os/io.c
